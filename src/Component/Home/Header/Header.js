@@ -22,7 +22,7 @@ const Header = () => {
            className="me-auto my-2 my-lg-0"
            style={{ maxHeight: '100px' }}
            navbarScroll>
-            <Nav.Link className='header-menu' href="#"><span style={{fontSize: '15px'}}>Create acount.<span style={{color:'#2F6CE5'}}>It's free</span> </span><FaCaretDown style={{color: '#2E2E2E', fontSize: '14px'}} /></Nav.Link>
+            <Nav.Link href="#"><span style={{fontSize: '15px'}}>Create acount.<span style={{color:'#2F6CE5'}}>It's free</span> </span><FaCaretDown style={{color: '#2E2E2E', fontSize: '14px'}} /></Nav.Link>
 
           </Nav>
         </Container>
