@@ -27,3 +27,9 @@
     color: #5C5C5C;
     font-weight: 500;
 }
+
+@media only screen and (max-width: 600px) {
+    .search-bar{
+        margin-top: 20px;
+    }
+}
